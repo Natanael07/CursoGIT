@@ -1,1 +1,0 @@
-////// This include file is used in the model Include File Example// it is simple used to demonstrate the syntax of Extend Include files.////procedure IncludeFunc(){PlaySound("click");waitNTicks(3);beep();PlaySound("click");}
