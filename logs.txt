@@ -1,0 +1,29 @@
+commit 35de53179220f57c737d6a323d700143f3e5968f
+Author: natanael <natanael_chivas@hotmail.com>
+Date:   Wed Sep 9 16:42:41 2015 -0600
+
+    pie de pagina agregado
+
+commit ccf05951a0e655845f27dc7b302886ea93fe352a
+Author: natanael <natanael_chivas@hotmail.com>
+Date:   Wed Sep 9 16:38:38 2015 -0600
+
+    login agregado
+
+commit ed44c7f792b1694b0f4a7636286bffddad0ac6ec
+Author: natanael <natanael_chivas@hotmail.com>
+Date:   Wed Sep 9 16:29:40 2015 -0600
+
+    logo agregado
+
+commit 6d71ea2c3a06f504acd09cbd3bf49bb1f26b971a
+Author: nathanael <natanael_chivas@hotmail.com>
+Date:   Tue Sep 8 16:54:46 2015 -0600
+
+    titulo agregado
+
+commit 6fd91dfd4d7ad1a9b03b923beccd225caa9c4375
+Author: nathanael <natanael_chivas@hotmail.com>
+Date:   Tue Sep 8 16:43:57 2015 -0600
+
+    proyecto en blanco
